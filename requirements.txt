@@ -1,1 +1,1 @@
-midea-local==6.6.0
+midea-local @ git+https://github.com/illdelph/midea-local.git@feat/ac-ieco-switch

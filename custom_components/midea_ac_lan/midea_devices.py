@@ -414,6 +414,12 @@ MIDEA_DEVICES: dict[int, dict[str, dict[str, Any] | str]] = {
                 "name": "ECO Mode",
                 "icon": "mdi:leaf-circle",
             },
+            ACAttributes.ieco_switch: {
+                "type": Platform.SWITCH,
+                "translation_key": "ieco_switch",
+                "name": "EcoMaster",
+                "icon": "mdi:leaf-circle-outline",
+            },
             ACAttributes.frost_protect: {
                 "type": Platform.SWITCH,
                 "translation_key": "frost_protect",
