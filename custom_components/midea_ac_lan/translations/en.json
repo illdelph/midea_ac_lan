@@ -863,6 +863,9 @@
       "heating_power": {
         "name": "Heating Power"
       },
+      "ieco_switch": {
+        "name": "EcoMaster"
+      },
       "indirect_wind": {
         "name": "Indirect Wind"
       },

@@ -1,1 +1,1 @@
-midea-local==6.8.0
+midea-local @ git+https://github.com/illdelph/midea-local.git@v6.11.1-ieco1
